@@ -1,0 +1,5 @@
+email:{required:true},
+birth_date:{required:true},
+nationality:{required:true},
+residence_country:{required:true},
+cuil :{required:true},
